@@ -90,10 +90,6 @@ main .max-width-wrapper {
   padding-block-end: 24px;
 }
 
-.intro-chunk p {
-
-}
-
 .card {
   padding-inline: 24px;
 }
@@ -106,8 +102,4 @@ main .max-width-wrapper {
   width: fit-content;
   margin-left: -32px;
   margin-block-end: 16px;
-}
-
-.card p {
-
 }
